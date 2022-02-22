@@ -9,18 +9,21 @@ You need to have [nodejs](https://nodejs.org/en/download/) or yarn installed on 
 ## Usage
 
 ```react
-
 #install packages
+
 npm install
 
-# to start the project
-npm start
 
+
+# to start the project
+
+npm start
 ```
 
 ## Created Using
 
 - React JS
+
 - Tailwind CSS
 
 ## SCREENSHOT
@@ -30,3 +33,7 @@ npm start
 ## PACKAGES
 
 - [date-fns](https://www.npmjs.com/package/date-fns)
+
+---
+
+
